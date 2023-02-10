@@ -11,7 +11,7 @@ figure = animatedline;
 %% プロット設定
 
 plotSpeed = 1 ;                 % 1つの窓が表示される時間[s]
-totalTime = 10;% グラフ全体の秒数[s]
+totalTime = 10;                 % グラフ全体の秒数[s]
 windowRange = 20;               % 窓のサイズ
 plotXRAnge= 5;                  % x軸プラス方向のプロット範囲
 plotXmargine = 1;               % x軸方向の最小、最大からのマージン数
